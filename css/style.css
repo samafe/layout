@@ -1,0 +1,32 @@
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	width:90%;
+	margin: 0 auto;
+}
+header{
+	min-height: 80px;
+	background-color:green;
+	margin-bottom: 50px
+}
+.main{
+	overflow: hidden;
+}
+.content{
+	min-height: 400px;
+	background-color: green;
+	width: 60%;
+	float:left;
+}
+.sidebar{
+	min-height: 400px;
+	background-color: green;
+	width: 38%;
+	float:right;
+}
+footer{
+	min-height: 80px;
+	background-color:green;
+	margin-top: 50px
